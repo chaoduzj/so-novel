@@ -44,6 +44,6 @@
     "paragraphTagClosed": false,
     "paragraphTag": "<br><br>",
     "filterTxt": "",
-    "filterTag": ""
+    "filterTag": "div"
   }
 }
